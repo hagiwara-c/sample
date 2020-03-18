@@ -2,3 +2,6 @@ sample1.txt———————
 sample1の更新確認
 ————————————
 sample1の更新確認 by fuji
+
+gitのばかああああああああああああああああああああああああ
+sample1の更新確認　by hagiwara
