@@ -5,3 +5,6 @@ sample1の更新確認 by fuji
 
 gitのばかああああああああああああああああああああああああ
 sample1の更新確認　by hagiwara
+
+ブランチよりランチがよい。
+branchAの更新確認　by hagiwara
