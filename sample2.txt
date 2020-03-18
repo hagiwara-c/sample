@@ -2,3 +2,4 @@ sample2.txt———————
 sample2の更新確認
 ————————————
 sample2の更新 by fuji
+sample2の更新3回目 by fuji
