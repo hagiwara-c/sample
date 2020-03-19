@@ -6,5 +6,14 @@ sample1の更新確認 by fuji
 gitのばかああああああああああああああああああああああああ
 sample1の更新確認　by hagiwara
 
+
 お腹すきましたあああああああああああ
 sample1　masterからの更新　by hagiwara
+
+コンフリクトしたので修正。
+//ブランチよりランチがよい。
+branchAの更新確認　by hagiwara
+
+branchAをお腹すいたの下に表示
+mergeの修正確認　by　hagiwara
+
