@@ -1,2 +1,12 @@
 rebaseの練習ファイル
+
+by hagiwara
+
+rebaseの練習①複数のコミットを結合する
+by hagiwara
+
+rebaseの練習②複数のコミットを結合する
+by hagiwara
+
+rebaseの練習③複数のコミットを結合する
 by hagiwara
