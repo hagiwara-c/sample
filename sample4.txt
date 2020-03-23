@@ -13,3 +13,6 @@ by hagiwara
 
 rebaseで一本の線に繋げる(master)
 by hagiwara
+
+rebaseで一本の線に繋げる②(master)
+by hagiwara
