@@ -10,3 +10,6 @@ by hagiwara
 
 rebaseの練習③複数のコミットを結合する
 by hagiwara
+
+rebaseで一本の線に繋げる(master)
+by hagiwara
