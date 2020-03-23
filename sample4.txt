@@ -16,3 +16,9 @@ by hagiwara
 
 rebaseで一本の線に繋げる②(master)
 by hagiwara
+
+rebaseの練習一本の線に繋げる(branchA)
+by hagiwara
+
+rebaseの練習一本の線に繋げる②(branchA)
+by hagiwara
